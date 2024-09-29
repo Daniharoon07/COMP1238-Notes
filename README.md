@@ -29,3 +29,15 @@ Testing with some text
 - 😆
 - 😫
 - 🎮
+
+
+# Keyboard Shortcuts 
+Shortcuts I frequently use:
+- Ctrl-C (copy)
+- Ctrl-V (paste)
+- Alt-tab (Switch between applications)
+
+Shortcuts I would like to start using: 
+- Ctrl-F (Find)
+- Win-D (Display/Hide Desktop)
+- Win-L (Lock Your PC)
