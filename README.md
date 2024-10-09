@@ -20,6 +20,7 @@ Testing with some text
 -  [COMP1238 D2L] 📖- (https://learn.georgebrown.ca/d2l/home/291663)
 -  [Ratatype] ⌨️ - (https://www.ratatype.com/) 
 -  [Atklass] 🏫 -(https://app.atklass.com/members/l/dashboard)
+-  [CLI Commands] 💻 -(docs/cli.md)
 
 
 
